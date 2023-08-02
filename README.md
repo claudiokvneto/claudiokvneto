@@ -1,7 +1,7 @@
 <h1 align="left">Olá 👋, sou o Cláudio Neto</h1>
 <h3 align="left">Gosto muito de análise e ciência de dados!</h3>
 
-- 🌱 Aprendendo cada vez mais: **Python, SQL, Data Science e Machine Learning.**
+- 🌱 Aprendendo cada vez mais: ** SQL, Data Science e Machine Learning.**
 - 👨‍💻 Procurando por alguma oportunidade na área.
 - 🐍 Linguagens de Programação: Python.
 - 📚 Bibliotecas: Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn.
