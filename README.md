@@ -1,12 +1,12 @@
 <h1 align="left">Olá 👋, sou o Cláudio Neto</h1>
 <h3 align="left">Gosto muito de análise e ciência de dados!</h3>
 
-- 🌱 Aprendendo cada vez mais: ** SQL, Data Science e Machine Learning.**
+- 🌱 Aprendendo cada vez mais: **SQL, Data Science e Machine Learning.**
 - 👨‍💻 Procurando por alguma oportunidade na área.
-- 🐍 Linguagens de Programação: Python.
-- 📚 Bibliotecas: Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn.
-- 🏦 Bancos de Dados: SQL, SQLite
-- 🤖 Aprendizado de Máquina: Regressão, Classificação, Agrupamento, Árvores de Decisão, SVM, Redes Neurais, (em aprendizado).
+- 🐍 Linguagens de Programação: **Python**.
+- 📚 Bibliotecas: **Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn.**
+- 🏦 Bancos de Dados: **SQL, SQLite.**
+- 🤖 Aprendizado de Máquina: **Regressão, Classificação, Agrupamento, Árvores de Decisão, SVM, Redes Neurais,** (em aprendizado).
 - 📫 Pode me encontrar através do e-mail: **claudiokvneto@gmail.com**
 
 <h3 align="left">Também estou no:</h3>
