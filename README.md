@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiokvneto&show_icons=true&locale=en&layout=compact" alt="claudiokvneto" /></p>
 
-Fique à vontade para entrar em contato para colaborações em projetos, discussões ou oportunidades na área de dados. Vamos aprender e crescer juntos! 😄
+Fique à vontade para entrar em contato para colaborações em projetos, discussões ou oportunidades na área. Vamos aprender e crescer juntos! 
